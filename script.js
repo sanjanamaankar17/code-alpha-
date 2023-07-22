@@ -56,6 +56,11 @@ function addNewACField() {
     let acAddOb = document.getElementById("acAdd");
     acOb.insertBefore(newNode, acAddOb);
 }
+function startResume() {
+    
+    document.getElementById('cv-page').style.display = 'none';
+    document.getElementById('cv-form').style.display = 'block';
+}
 function generateResume() {
     let name = document.getElementById('name').value;
     //console.log(name);
