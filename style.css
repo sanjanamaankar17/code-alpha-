@@ -2,7 +2,7 @@ body {
     background: linear-gradient(to left, rgb(217, 210, 247), rgb(245, 229, 247));
 }
 
-.col-xs-12 {
+.col-md-12 {
     overflow: hidden;
     background: linear-gradient(to bottom, rgb(122, 214, 228), rgb(221, 206, 71));
 
@@ -214,7 +214,7 @@ p {
     }
 }
 
-.col-xs-5 {
+.col-md-5 {
     background-color: rgba(248, 248, 249, 0.397);
     padding-top: 1%;
     padding-bottom: 1%;
