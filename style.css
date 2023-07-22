@@ -176,7 +176,7 @@ body {
     margin-left: 0.25em;
 }
 
-p {
+#na {
     position: absolute;
     transform: translateX(3em);
     font-family: "Oswald";
