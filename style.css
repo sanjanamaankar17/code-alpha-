@@ -2,7 +2,7 @@ body {
     background: linear-gradient(to left, rgb(217, 210, 247), rgb(245, 229, 247));
 }
 
-.bd {
+.col-xs-12 {
     overflow: hidden;
     background: linear-gradient(to bottom, rgb(196, 234, 240), rgb(221, 206, 71));
 
@@ -39,7 +39,7 @@ body {
 .sun {
     position: relative;
     border-radius: 50%;
-    background: linear-gradient(to bottom, rgb(235, 166, 48), rgb(236, 214, 16));
+    background: linear-gradient(to bottom, rgb(245, 172, 46), rgb(231, 247, 9));
 }
 
 .sun.primary {
@@ -214,7 +214,7 @@ p {
     }
 }
 
-.col-md-5 {
+.col-xs-5 {
     background-color: rgba(248, 248, 249, 0.397);
     padding-top: 1%;
     padding-bottom: 1%;
